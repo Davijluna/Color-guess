@@ -1,3 +1,10 @@
 #cor {
     color: 168, 34, 1;
 }
+
+.ball {
+    background: lightblue;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
